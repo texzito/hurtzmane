@@ -11,6 +11,6 @@ projects:
 > Shadow Menu 
 > Vintage RP (2019)
 
-Means of contact: 
+contact: 
 Discord: texx#2882 
 Instagram: texzito
