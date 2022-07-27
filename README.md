@@ -14,4 +14,3 @@ projects:
 Means of contact: 
 Discord: texx#2882 
 Instagram: texzito
-Discord: Reloading#5091
