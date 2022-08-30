@@ -1,5 +1,5 @@
 ### Hi, I'm Tex 🙂
-========= DEVELOPER OF C++, C#, LUA =========
+========= C++, C#, LUA CHEAT DEVELOPER =========
 
 projects:
 > Avelino Menu (All versions) 
