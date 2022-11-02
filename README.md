@@ -1,7 +1,7 @@
 ### Hi, I'm Tex 🙂
 ========= C++, C#, LUA CHEAT DEVELOPER =========
 
-projects:
+relevant projects:
 > Avelino Menu (All versions) 
 > PurpleNight 
 > Peep Combany (All ch3ats) 
