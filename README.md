@@ -12,5 +12,5 @@ projects:
 > Vintage RP (2019)
 
 contact: 
-Discord: texx#2882 
-Instagram: texzito
+Discord: hurtz#1130 
+Instagram: hurtzmane
