@@ -1,4 +1,4 @@
-### Hi, I'm Tex 🙂
+### Hi, I'm Hurtz 🙂
 ========= C++, C#, LUA CHEAT DEVELOPER =========
 
 relevant projects:
