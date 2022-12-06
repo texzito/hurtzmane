@@ -3,6 +3,8 @@
 
 relevant projects:
 > Avelino Menu (All versions) 
+> Minless Cheats (All version)
+> Bzzware
 > PurpleNight 
 > Peep Combany (All ch3ats) 
 > Schemaware (All ch3ats) 
