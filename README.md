@@ -1,5 +1,6 @@
 ### Hi, I'm Hurtz 🙂
-========= C++, C#, LUA CHEAT DEVELOPER =========
+========= C++ | C# | LUA | WEB ==========
+======== REVERSE ENGINE | PENTEST =========
 
 relevant projects:
 > Avelino Menu (All versions) 
