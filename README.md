@@ -39,8 +39,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=001zk&theme=high-contrast)](https://github.com/001zk/github-readme-activity-graph) <p>  <img src="https://github-profile-trophy.vercel.app/?username=001zk&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
    </p> 
 <div>
-<a href="https://www.instagram.com/lzk001/" target="_blank"><img src="https://user-images.githubusercontent.com/101060286/195706189-2246473e-db29-4b52-818d-3369cab7eaa8.png" height="40" widht="45"></a>
-  <a href="https://twitter.com/Luizx001" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40">
+<a href="https://www.instagram.com/hurtzmane/" target="_blank"><img src="https://user-images.githubusercontent.com/101060286/195706189-2246473e-db29-4b52-818d-3369cab7eaa8.png" height="40" widht="45"></a>
+  <a href="https://twitter.com/hurtzmane" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40">
    </a>
  
  </div>
