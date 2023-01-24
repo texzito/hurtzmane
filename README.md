@@ -19,7 +19,10 @@
  
 <div> 
 
-  [channel](https://www.youtube.com/channel/UCxUmjCyT6h0HGt0qeiCuk-w)
+  [youtube channel](https://www.youtube.com/channel/UCxUmjCyT6h0HGt0qeiCuk-w)
+  [hurtz community](https://discord.gg/T88aGEF2wq)
+  [ecstasy server](https://discord.gg/xMn7tPmJEr)
+  [instagram](https://www.instagram.com/hurtzmane/)
   
 </div>
 
