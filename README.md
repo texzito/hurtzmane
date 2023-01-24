@@ -1,7 +1,7 @@
 ## im hurtz :P
 
 📚Reverse engineering
-💻C/C++, C#, HTML/CSS, JS, LUA
+💻C/C++, C#, TS, HTML/CSS, JS, LUA
 📩contact me on my networks alone below
 
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
   [youtube channel |](https://www.youtube.com/channel/UCxUmjCyT6h0HGt0qeiCuk-w)
   [hurtz community |](https://discord.gg/T88aGEF2wq)
   [ecstasy server |](https://discord.gg/xMn7tPmJEr)
-  [instagram |](https://www.instagram.com/hurtzmane/)
+  [instagram](https://www.instagram.com/hurtzmane/)
   
 </div>
 
