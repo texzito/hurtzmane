@@ -4,7 +4,6 @@
 ##
 💻C/C++, C#, TS, HTML/CSS, JS, LUA
 ##
-📩contact me on my networks alone below
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +19,7 @@
   ##
  
 <div> 
-
+📩contact me on my networks alone below
   [youtube channel |](https://www.youtube.com/channel/UCxUmjCyT6h0HGt0qeiCuk-w)
   [hurtz community |](https://discord.gg/T88aGEF2wq)
   [ecstasy server |](https://discord.gg/xMn7tPmJEr)
