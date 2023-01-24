@@ -31,4 +31,3 @@
   [instagram](https://www.instagram.com/hurtzmane/)
   
 </div>
-
