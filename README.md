@@ -2,7 +2,7 @@
 
 📚Reverse engineering
 ##
-💻C/C++, C#, TS, HTML/CSS, JS, LUA
+💻C/C++, C#, TS, HTML/CSS, JS, LUA, PY
 ##
 
 <div style="display: inline_block"><br>
