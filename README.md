@@ -26,8 +26,8 @@
    
   
   [youtube channel |](https://www.youtube.com/channel/UCxUmjCyT6h0HGt0qeiCuk-w)
-  [hurtz community |](https://discord.gg/T88aGEF2wq)
-  [ecstasy server |](https://discord.gg/xMn7tPmJEr)
+  [hurtz community |](https://discord.gg/SuAcfnGEcc)
+  [schemaware server |](https://discord.gg/E3BrgcUU4y)
   [instagram](https://www.instagram.com/hurtzmane/)
   
 </div>
