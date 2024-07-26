@@ -6,7 +6,7 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1061044572035231844/1067279398786576484/c35b2366385f11b37fe5114750597ba1.jpg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1175647558643753063/1266300482469498961/ISO_C2B2B_Logo.png">
 </div>
   
   ##
