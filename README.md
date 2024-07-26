@@ -2,7 +2,7 @@
 
 📚Reverse engineering
 ##
-💻C/C++, JS, C#, TS, HTML/CSS, LUA, PY
+💻C/C++, LUA
 ##
 
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
    
   
   [youtube channel |](https://www.youtube.com/channel/UCxUmjCyT6h0HGt0qeiCuk-w)
-  [hurtz community |](https://discord.gg/SuAcfnGEcc)
+  [tex community |](https://discord.gg/SuAcfnGEcc)
   [schemaware server |](https://discord.gg/E3BrgcUU4y)
   [instagram](https://www.instagram.com/hurtzmane/)
   
