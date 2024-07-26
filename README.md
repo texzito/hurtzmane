@@ -4,10 +4,6 @@
 ##
 💻C/C++, LUA
 ##
-
-<div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1175647558643753063/1266300482469498961/ISO_C2B2B_Logo.png">
-</div>
   
   ##
  
