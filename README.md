@@ -1,4 +1,4 @@
-## im hurtz :P
+## im tex :P
 
 📚Reverse engineering
 ##
@@ -15,8 +15,8 @@
    
   
   [youtube channel |](https://www.youtube.com/channel/UCxUmjCyT6h0HGt0qeiCuk-w)
-  [tex community |](https://discord.gg/SuAcfnGEcc)
-  [schemaware server |](https://discord.gg/E3BrgcUU4y)
-  [instagram](https://www.instagram.com/hurtzmane/)
+  [server |](https://discord.gg/5EwEZXrqvs)
+  [schemaware |](https://schemaware.xyz)
+  [instagram](https://www.instagram.com/opropriotex/)
   
 </div>
